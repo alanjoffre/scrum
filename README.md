@@ -1,2 +1,2 @@
 # SCRUM
-- Repositório com: artigos, aprendizados, exercícios e projetos.
+- Repositório com: artigos, aprendizados, exercícios e projetos
